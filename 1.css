@@ -1,0 +1,8 @@
+.flex-container{
+    display:flex;
+}
+
+
+.flex-item{
+    border:3px solid #ccc;
+}
